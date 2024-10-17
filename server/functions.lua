@@ -1266,3 +1266,4 @@ AntiCheat.Player.GetPlayerIdentifiers = function(playerId)
 
     return playerIdentifiers
 end
+
