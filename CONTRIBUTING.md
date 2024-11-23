@@ -26,3 +26,4 @@ All these details will help people to fix potential bugs.
 - DO NOT RENAME a resource. Retain the authenticity of it. Everything is designed the way it is for a reason. Do not go behind someone else and redo what someone took the time and effort to do to make everything work.
 - Contributions are made to this repository as a goodness of heart and a record kept of the contributor's contributions history for their work.
 - Violating any of the above hereby informs you that you will be removed from this community and branded as a leech.
+
