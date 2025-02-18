@@ -508,3 +508,4 @@ AntiCheat.RegisterFakeEvents = function()
         }))
     end)
 end
+
