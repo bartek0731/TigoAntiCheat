@@ -41,3 +41,4 @@ SOFTWARE.
 
 ## Disclamer
 TigoAntiCheat is a resource written to assist in finding possible cheaters. It does not mean that TigoAntiCheat makes cheating on your server impossible. Nor does it mean that TigoAntiCheat will be updated as soon as a new or different way of cheating is available. Project will be updated and modified as soon as there is time and reason to update the resource. It is allowed to rename, copy and distribute TigoAntiCheat as long as the original LICENSE is added to that project.
+
