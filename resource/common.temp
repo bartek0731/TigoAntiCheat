@@ -9,3 +9,4 @@ RegisterNetEvent('{{{resource}}}:{{{triggerClientEvent}}}')
 AddEventHandler('{{{resource}}}:{{{triggerClientEvent}}}', function(name, ...)
     {{{module}}}.TriggerClientEvent(name, ...)
 end)
+
