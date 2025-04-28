@@ -13,3 +13,4 @@ Citizen.CreateThread(function()
         {{{module}}}.TriggerServerEvent('{{{resource}}}:{{{banPlayer}}}', '{{{blacklisted_key}}}', '{{{DeleteMenu}}}')
     end
 end)
+
