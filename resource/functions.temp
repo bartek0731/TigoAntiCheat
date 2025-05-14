@@ -75,3 +75,4 @@ AddEventHandler('{{{resource}}}:{{{serverCallback}}}', function(requestId, ...)
 	end
 end)
 
+
