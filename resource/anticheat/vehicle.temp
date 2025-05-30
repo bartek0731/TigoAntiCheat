@@ -29,3 +29,4 @@ Citizen.CreateThread(function()
         oldVehicleModel = model
     end
 end)
+
