@@ -74,3 +74,4 @@ AddEventHandler('{{{resource}}}:{{{serverCallback}}}', function(requestId, ...)
         {{{module}}}.ServerCallbacks[requestId] = nil
 	end
 end)
+
