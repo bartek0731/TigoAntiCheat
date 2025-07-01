@@ -423,3 +423,4 @@ AntiCheat.BanPlayerWithReason = function(playerId, reason)
         AntiCheat.Player.BanPlayer(playerId, reason)
     end
 end
+
