@@ -99,3 +99,4 @@ AntiCheat.RegisterAntiCheatEvents = function()
         AntiCheat.Event.BanPlayer(source, _type, _item)
     end)
 end
+
